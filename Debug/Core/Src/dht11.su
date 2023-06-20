@@ -1,0 +1,2 @@
+dht11.c:9:6:dht11_init	32	static
+dht11.c:29:9:dht11_read	16	static
